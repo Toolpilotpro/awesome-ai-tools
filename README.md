@@ -68,6 +68,11 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 
 - [8 Best AI Resume Builders in 2026](https://toolpilotpro.com/best-ai-resume-builders) — Honest pricing, free vs paid limits, and ATS features.
 
+## Marketing
+
+- [8 Best AI Social Media Tools in 2026](https://toolpilotpro.com/best-ai-social-media-tools-2026) — Buffer, Metricool, Hootsuite, Sprout Social, Canva and more, tested and compared.
+
+
 ## SEO
 
 - [8 Best AI SEO Tools in 2026](https://toolpilotpro.com/best-ai-seo-tools-2026) — Surfer SEO, Clearscope, Frase, Semrush, Ahrefs and more, tested and compared.
