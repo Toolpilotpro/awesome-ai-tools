@@ -36,6 +36,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 
 ## Chatbots & Assistants
 
+- [GPT-6 Intelligent UI: What Changed and What to Try First](https://toolpilotpro.com/gpt-6-intelligent-ui-guide) — GPT-6 Sol vs Luna, interactive answers, and the Astra trade-off, explained.
 - [ChatGPT vs Claude vs Gemini: Which Is Best in 2026?](https://toolpilotpro.com/chatgpt-vs-claude-vs-gemini) — Writing, coding, free tiers, pricing, and integrations.
 - [Is ChatGPT Plus Worth It in 2026?](https://toolpilotpro.com/chatgpt-plus-worth-it) — Free vs Go vs Plus vs Pro: limits, features, and who should pay $20/month.
 - [Perplexity vs ChatGPT: Which Is Better in 2026?](https://toolpilotpro.com/perplexity-vs-chatgpt) — Research accuracy, citations, features, and pricing.
