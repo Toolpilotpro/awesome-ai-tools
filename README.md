@@ -47,6 +47,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 
 
 ## Productivity
+- [Google Gemini Agent: What It Is, Who Gets It, and the Catch](https://toolpilotpro.com/google-gemini-agent-guide) — Google's universal enterprise agent: coworker agents with their own email and Drive, 200+ model routing, pricing and availability.
 - [Claude Dashboards + Motion: What They Do and Who Gets Them](https://toolpilotpro.com/claude-dashboards-motion-guide)
 - [8 Best AI Note-Taking Tools in 2026](https://toolpilotpro.com/best-ai-note-taking-tools-2026) — Notion AI, Obsidian, Mem, Tana and more, tested and compared.
 - [8 Best AI Productivity Tools to Save 10 Hours a Week](https://toolpilotpro.com/best-ai-productivity-tools) — Scheduling, notes, and task automation.
