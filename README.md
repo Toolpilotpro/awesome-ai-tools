@@ -6,6 +6,10 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 
 ---
 
+## Free Online Tools
+
+- [Free Online Tools](https://toolpilotpro.com/tools/) — 13 free browser tools: image compressor, resizer & converter, JPG to PDF, PDF merger & compressor, EMI/salary/GST/CGPA/income-tax calculators, JSON formatter & Base64. No sign-up, files never leave your browser.
+
 ## Writing & Content
 
 - [10 Best AI Writing Tools in 2026 (Compared)](https://toolpilotpro.com/best-ai-writing-tools-2026) — ChatGPT, Claude, Jasper, Grammarly, Sudowrite and more, compared on output quality and price.
