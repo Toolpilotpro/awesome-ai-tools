@@ -8,12 +8,12 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 
 ## Free Online Tools
 
-- [Free Online Tools](https://toolpilotpro.com/tools/) — 13 free browser tools: image compressor, resizer & converter, JPG to PDF, PDF merger & compressor, EMI/salary/GST/CGPA/income-tax calculators, JSON formatter & Base64. No sign-up, files never leave your browser.
+- [Free Online Tools](https://toolpilotpro.com/tools/) — 19 free browser tools: image compressor, resizer & converter, JPG to PDF, PDF merger, splitter & compressor, image to PDF, background remover, PDF to Word, word counter, QR code generator, EMI/salary/GST/CGPA/income-tax calculators, JSON formatter & Base64. No sign-up, files never leave your browser.
 
 ## Writing & Content
 
 - [10 Best AI Writing Tools in 2026 (Compared)](https://toolpilotpro.com/best-ai-writing-tools-2026) — ChatGPT, Claude, Jasper, Grammarly, Sudowrite and more, compared on output quality and price.
-- [Are AI Detectors Accurate? What 5 Popular Tools Get Wrong](https://toolpilotpro.com/are-ai-detectors-accurate) — GPTZero, Originality.ai, Turnitin, ZeroGPT and Copyleaks tested for false positives.
+- [Are AI Detectors Accurate? What 5 Popular Tools Get Wrong](https://toolpilotpro.com/are-ai-detectors-accurate) — GPTZero, Originality.ai, Turnitin, ZeroGPT and Copylaks tested for false positives.
 - [5 Best AI Paraphrasing Tools in 2026](https://toolpilotpro.com/best-ai-paraphrasing-tools) — QuillBot, Wordtune, Jasper, Copy.ai and ChatGPT: modes, free limits, pricing.
 - [Jasper vs Copy.ai: An Honest Comparison](https://toolpilotpro.com/jasper-vs-copy-ai) — Templates, output quality, ease of use and pricing.
 - [How to Use ChatGPT for Content Writing (Beginner's Guide)](https://toolpilotpro.com/how-to-use-chatgpt-content-writing) — Setup, prompts, and workflows that actually work.
@@ -30,7 +30,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 ## Video
 
 - [10 Best AI Video Generators for Beginners](https://toolpilotpro.com/best-ai-video-generators) — Features, pricing, and ease of use compared.
-- [6 Best AI Tools for YouTubers in 2026](https://toolpilotpro.com/best-ai-tools-for-youtubers) — Scripting, voiceovers, editing, thumbnails, and captions.
+- [6 Best AI Tools for YouTubers in 2026](https://toolpilotpro.com/best-ai-youtube-tools) — Scripting, voiceovers, editing, thumbnails, and captions.
 - [Pictory vs InVideo vs Synthesia: AI Video Tools Compared](https://toolpilotpro.com/pictory-vs-invideo-vs-synthesia) — Features, pricing, video quality, and ideal use cases.
 
 ## Audio & Voice
@@ -41,20 +41,18 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 - [5 Best AI Music Generators in 2026](https://toolpilotpro.com/best-ai-music-generators-2026) — Suno, Udio and more: output quality, commercial rights, and free limits.
 
 ## Chatbots & Assistants
+
 - [NVIDIA RTX Spark Laptops: Prices, Specs & First Reviews](https://toolpilotpro.com/nvidia-rtx-spark-laptops-guide) — RTX Spark laptops on sale from $2,599, with first review benchmarks.
 - [Google Gemini 4 Argon: Flagship Model, Price Catch, Verdict](https://toolpilotpro.com/google-gemini-4-argon-guide) — $2/$10 intro pricing until Dec 1, Vals Index lead, and how it compares to GPT-6, Claude, and Muse Wonder.
 - [Apple HomeView Is Here: $299 Siri AI Hub (Ships Nov 13)](https://toolpilotpro.com/apple-homeview-guide) — Siri AI smart-home hub, HomePod mini 2, and Apple TV 4K: confirmed details and comparisons
 - [Muse Wonder vs GPT-6 vs Claude: Prices, Scores, Verdict](https://toolpilotpro.com/meta-muse-wonder-guide) — Meta's first frontier model: pricing, benchmarks, and who should switch.
 - [OpenAI Cancelled GPT-6.1 Astra: What Happened and What Ships Instead](https://toolpilotpro.com/openai-gpt-6-1-astra-cancelled) — The safety failures behind the cancellation and what ships instead.
 - [NVIDIA Nemotron 3.5 Bolt: 74B Model That Runs on a Laptop](https://toolpilotpro.com/nvidia-nemotron-3-5-bolt-guide) — Open-weight 74B reasoning model that runs on a single laptop GPU.
-
 - [GPT-4o Is Retiring: Shutdown Date, Replacement & Migration](https://toolpilotpro.com/gpt-4o-retirement-api-shutdown) — GPT-4o leaves the API on Jan 14, 2027; what replaces it and how to migrate.
-
 - [DeepSeek V4.1-Flash-1017: Faster Coding, Lower Cost](https://toolpilotpro.com/deepseek-v4-1-flash-1017-guide) — Open-weights coding model, 1M context, API prices under $1 per million output tokens off-peak.
-                                                                                                                                                          
 - [GPT-6 Intelligent UI: What Changed and What to Try First](https://toolpilotpro.com/gpt-6-intelligent-ui-guide) — GPT-6 Sol vs Luna, interactive answers, and the Astra trade-off, explained.
 - [ChatGPT vs Claude vs Gemini: Which Is Best in 2026?](https://toolpilotpro.com/chatgpt-vs-claude-vs-gemini) — Writing, coding, free tiers, pricing, and integrations.
-- [Is ChatGPT Plus Worth It in 2026?](https://toolpilotpro.com/chatgpt-plus-worth-it) — Free vs Go vs Plus vs Pro: limits, features, and who should pay $20/month.
+- [Is ChatGPT Plus Worth It in 2026?](https://toolpilotpro.com/is-chatgpt-plus-worth-it) — Free vs Go vs Plus vs Pro: limits, features, and who should pay $20/month.
 - [Perplexity vs ChatGPT: Which Is Better in 2026?](https://toolpilotpro.com/perplexity-vs-chatgpt) — Research accuracy, citations, features, and pricing.
 - [7 Best AI Chatbots for Customer Support in 2026](https://toolpilotpro.com/best-ai-chatbots-customer-support) — Automation, auto-resolution, ticketing, and human handoff.
 
