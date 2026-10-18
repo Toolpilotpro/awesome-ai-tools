@@ -45,6 +45,12 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 - [Apple HomeView Is Here: $299 Siri AI Hub (Ships Nov 13)](https://toolpilotpro.com/apple-homeview-guide) — Siri AI smart-home hub, HomePod mini 2, and Apple TV 4K: confirmed details and comparisons
 - [Muse Wonder vs GPT-6 vs Claude: Prices, Scores, Verdict](https://toolpilotpro.com/meta-muse-wonder-guide) — Meta's first frontier model: pricing, benchmarks, and who should switch.
 - [OpenAI Cancelled GPT-6.1 Astra: What Happened and What Ships Instead](https://toolpilotpro.com/openai-gpt-6-1-astra-cancelled) — The safety failures behind the cancellation and what ships instead.
+- [NVIDIA Nemotron 3.5 Bolt: 74B Model That Runs on a Laptop](https://toolpilotpro.com/nvidia-nemotron-3-5-bolt-guide) — Open-weight 74B reasoning model that runs on a single laptop GPU.
+
+- [GPT-4o Is Retiring: Shutdown Date, Replacement & Migration](https://toolpilotpro.com/gpt-4o-retirement-api-shutdown) — GPT-4o leaves the API on Jan 14, 2027; what replaces it and how to migrate.
+
+- [DeepSeek V4.1-Flash-1017: Faster Coding, Lower Cost](https://toolpilotpro.com/deepseek-v4-1-flash-1017-guide) — Open-weights coding model, 1M context, API prices under $1 per million output tokens off-peak.
+                                                                                                                                                          
 - [GPT-6 Intelligent UI: What Changed and What to Try First](https://toolpilotpro.com/gpt-6-intelligent-ui-guide) — GPT-6 Sol vs Luna, interactive answers, and the Astra trade-off, explained.
 - [ChatGPT vs Claude vs Gemini: Which Is Best in 2026?](https://toolpilotpro.com/chatgpt-vs-claude-vs-gemini) — Writing, coding, free tiers, pricing, and integrations.
 - [Is ChatGPT Plus Worth It in 2026?](https://toolpilotpro.com/chatgpt-plus-worth-it) — Free vs Go vs Plus vs Pro: limits, features, and who should pay $20/month.
