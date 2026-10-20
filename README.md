@@ -42,6 +42,8 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 
 ## Chatbots & Assistants
 
+- [HomePod mini 2: $149, Sound Glow — and No Siri AI at Launch](https://toolpilotpro.com/apple-homepod-mini-2-guide) — Apple's refreshed smart speaker explained: what's in the box, what's still a promise.
+- [4 Gemini 4 Argon Agents Beat Minecraft in 27 Hours, No Humans](https://toolpilotpro.com/gemini-4-argon-agents-beat-minecraft) — Google DeepMind's agentic AI stunt, full breakdown + cost math.
 - [NVIDIA RTX Spark Laptops: Prices, Specs & First Reviews](https://toolpilotpro.com/nvidia-rtx-spark-laptops-guide) — RTX Spark laptops on sale from $2,599, with first review benchmarks.
 - [Google Gemini 4 Argon: Flagship Model, Price Catch, Verdict](https://toolpilotpro.com/google-gemini-4-argon-guide) — $2/$10 intro pricing until Dec 1, Vals Index lead, and how it compares to GPT-6, Claude, and Muse Wonder.
 - [Apple HomeView Is Here: $299 Siri AI Hub (Ships Nov 13)](https://toolpilotpro.com/apple-homeview-guide) — Siri AI smart-home hub, HomePod mini 2, and Apple TV 4K: confirmed details and comparisons
