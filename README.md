@@ -42,6 +42,8 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 
 ## Chatbots & Assistants
 
+- [11 Best AI Tools for Hotels (2026)](https://toolpilotpro.com/best-ai-tools-for-hotels) - Eleven hotel AI tools compared by job: guest messaging, dynamic pricing, reviews, housekeeping and PMS, with honest published prices.
+- [9 Best AI Tools for Restaurants (2026) That Save the Dinner Rush](https://toolpilotpro.com/best-ai-tools-for-restaurants) - Nine restaurant AI tools compared: AI phone hosts, reservations, ordering and marketing, with a worked example of missed-call losses.
 - [7 Best AI Chatbots for Hotels & Small Businesses (2026)](https://toolpilotpro.com/best-ai-chatbots-for-hotels) - Ranking of hotel and small-business AI chatbots with honest pricing, WhatsApp and voice options, and worked examples of missed-call losses.
 - [HomePod mini 2: $149, Sound Glow — and No Siri AI at Launch](https://toolpilotpro.com/apple-homepod-mini-2-guide) — Apple's refreshed smart speaker explained: what's in the box, what's still a promise.
 - [4 Gemini 4 Argon Agents Beat Minecraft in 27 Hours, No Humans](https://toolpilotpro.com/gemini-4-argon-agents-beat-minecraft) — Google DeepMind's agentic AI stunt, full breakdown + cost math.
