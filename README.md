@@ -42,6 +42,8 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 
 ## Chatbots & Assistants
 
+- [Mercury 3: The 1,068 Tokens/Sec Diffusion Model vs GPT-6 Luna](https://toolpilotpro.com/mercury-3-diffusion-guide) - Inception's diffusion LLM writes in parallel at a claimed 1,068 tokens/sec with a 1M context and $0.10 launch pricing; benchmarks vs GPT-6 Luna and Claude Haiku 5.5, honestly framed.
+- [NVIDIA GTC Berlin 2026 Keynote Recap: What Jensen Huang Actually Announced](https://toolpilotpro.com/nvidia-gtc-berlin-keynote-recap-2026) - DSX POD AI factories, the OpenShell agent-safety architecture, humanoid robots and the Europe AI pledges, scored against the preview's predictions.
 - [11 Best AI Tools for Hotels (2026)](https://toolpilotpro.com/best-ai-tools-for-hotels) - Eleven hotel AI tools compared by job: guest messaging, dynamic pricing, reviews, housekeeping and PMS, with honest published prices.
 - [9 Best AI Tools for Restaurants (2026) That Save the Dinner Rush](https://toolpilotpro.com/best-ai-tools-for-restaurants) - Nine restaurant AI tools compared: AI phone hosts, reservations, ordering and marketing, with a worked example of missed-call losses.
 - [7 Best AI Chatbots for Hotels & Small Businesses (2026)](https://toolpilotpro.com/best-ai-chatbots-for-hotels) - Ranking of hotel and small-business AI chatbots with honest pricing, WhatsApp and voice options, and worked examples of missed-call losses.
