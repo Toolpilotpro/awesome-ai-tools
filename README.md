@@ -8,7 +8,10 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 
 ## Free Online Tools
 
-- [Free Online Tools](https://toolpilotpro.com/tools/) — 19 free browser tools: image compressor, resizer & converter, JPG to PDF, PDF merger, splitter & compressor, image to PDF, background remover, PDF to Word, word counter, QR code generator, EMI/salary/GST/CGPA/income-tax calculators, JSON formatter & Base64. No sign-up, files never leave your browser.
+- [Free Online Tools](https://toolpilotpro.com/tools/) — 22 free browser tools: image compressor, resizer & converter, JPG to PDF, PDF merger, splitter & compressor, image to PDF, background remover, PDF to Word, word counter, QR code generator, EMI/salary/GST/CGPA/income-tax calculators, JSON formatter & Base64. No sign-up, files never leave your browser.
+- [YouTube Thumbnail Downloader](https://toolpilotpro.com/tools/youtube-thumbnail-downloader/) — download any video's thumbnail in HD
+- [Image to Text Converter](https://toolpilotpro.com/tools/image-to-text/) — free OCR, extract text from images
+- [PDF to JPG Converter](https://toolpilotpro.com/tools/pdf-to-jpg/) — convert PDF pages to JPG or PNG images
 
 ## Writing & Content
 
@@ -25,7 +28,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 - [7 Best Free AI Image Generators in 2026](https://toolpilotpro.com/best-free-ai-image-generators) — Free plan limits, image quality, and commercial-use rules.
 - [Midjourney vs DALL-E vs Stable Diffusion: Compared 2026](https://toolpilotpro.com/midjourney-vs-dalle-vs-stable-diffusion) — Image quality, price, ease of use, and commercial rights.
 - [7 Best Free AI Headshot Generators in 2026](https://toolpilotpro.com/best-free-ai-headshot-generators) — Which free tiers actually produce LinkedIn-ready headshots.
-- [5 Best Free AI Logo Makers in 2026](https://toolpilotpro.com/best-free-ai-logo-makers) — Which ones are truly free, logo quality, and download limits.
+- [5 Best Free AI Logo Makers in 2026](https://toolpilotpro.com/best-ai-logo-makers) — Which ones are truly free, logo quality, and download limits.
 
 ## Video
 
