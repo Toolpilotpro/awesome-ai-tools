@@ -45,6 +45,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 
 ## Chatbots & Assistants
 
+- [ARTEX: The AI That Hacks on Its Own](https://toolpilotpro.com/artex-ai-hacking-tool-guide) — GMO found the autonomous AI pentesting tool on servers behind Japan's breach wave: ~20 companies documented, the Korea chapter, and what businesses should do.
 - [Claude Duet: The AI Agent That Works Before You Ask](https://toolpilotpro.com/claude-duet-guide) — Anthropic's proactive agent on Opus 5.5: morning briefs, an approval gate before it acts, and how it compares with Meta Muse, OpenAI Dots and Gemini.
 - [OpenAI Models Land on Google Cloud: GPT-6 on Model Garden](https://toolpilotpro.com/openai-models-on-google-cloud) - GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna arrive on Google Cloud in private preview, with Marketplace billing, Codex workflows, and one big unanswered Astra question.
 - [Mercury 3: The 1,068 Tokens/Sec Diffusion Model vs GPT-6 Luna](https://toolpilotpro.com/mercury-3-diffusion-guide) - Inception's diffusion LLM writes in parallel at a claimed 1,068 tokens/sec with a 1M context and $0.10 launch pricing; benchmarks vs GPT-6 Luna and Claude Haiku 5.5, honestly framed.
