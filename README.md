@@ -8,7 +8,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 
 ## Free Online Tools
 
-- [Free Online Tools](https://toolpilotpro.com/tools/) — 22 free browser tools: image compressor, resizer & converter, JPG to PDF, PDF merger, splitter & compressor, image to PDF, background remover, PDF to Word, word counter, QR code generator, EMI/salary/GST/CGPA/income-tax calculators, JSON formatter & Base64. No sign-up, files never leave your browser.
+- [Free Online Tools](https://toolpilotpro.com/tools/) — 23 free browser tools: image compressor, resizer & converter, JPG to PDF, PDF merger, splitter & compressor, image to PDF, background remover, PDF to Word, word counter, QR code generator, EMI/salary/GST/CGPA/income-tax calculators, JSON formatter & Base64. No sign-up, files never leave your browser.
 - [YouTube Thumbnail Downloader](https://toolpilotpro.com/tools/youtube-thumbnail-downloader/) — download any video's thumbnail in HD
 - [Image to Text Converter](https://toolpilotpro.com/tools/image-to-text/) — free OCR, extract text from images
 - [PDF to JPG Converter](https://toolpilotpro.com/tools/pdf-to-jpg/) — convert PDF pages to JPG or PNG images
@@ -46,19 +46,19 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 ## Chatbots & Assistants
 
 - [ARTEX: The AI That Hacks on Its Own](https://toolpilotpro.com/artex-ai-hacking-tool-guide) — GMO found the autonomous AI pentesting tool on servers behind Japan's breach wave: ~20 companies documented, the Korea chapter, and what businesses should do.
-- [Claude Duet: The AI Agent That Works Before You Ask](https://toolpilotpro.com/claude-duet-guide) — Anthropic's proactive agent on Opus 5.5: morning briefs, an approval gate before it acts, and how it compares with Meta Muse, OpenAI Dots and Gemini.
+- [Claude Duet: The AI Agent That Works Before You Ask](https://toolpilotpro.com/claude-duet-guide) — Anthropic’s proactive agent on Opus 5.5: morning briefs, an approval gate before it acts, and how it compares with Meta Muse, OpenAI Dots and Gemini.
 - [OpenAI Models Land on Google Cloud: GPT-6 on Model Garden](https://toolpilotpro.com/openai-models-on-google-cloud) - GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna arrive on Google Cloud in private preview, with Marketplace billing, Codex workflows, and one big unanswered Astra question.
-- [Mercury 3: The 1,068 Tokens/Sec Diffusion Model vs GPT-6 Luna](https://toolpilotpro.com/mercury-3-diffusion-guide) - Inception's diffusion LLM writes in parallel at a claimed 1,068 tokens/sec with a 1M context and $0.10 launch pricing; benchmarks vs GPT-6 Luna and Claude Haiku 5.5, honestly framed.
-- [NVIDIA GTC Berlin 2026 Keynote Recap: What Jensen Huang Actually Announced](https://toolpilotpro.com/nvidia-gtc-berlin-keynote-recap-2026) - DSX POD AI factories, the OpenShell agent-safety architecture, humanoid robots and the Europe AI pledges, scored against the preview's predictions.
+- [Mercury 3: The 1,068 Tokens/Sec Diffusion Model vs GPT-6 Luna](https://toolpilotpro.com/mercury-3-diffusion-guide) - Inception’s diffusion LLM writes in parallel at a claimed 1,068 tokens/sec with a 1M context and $0.10 launch pricing; benchmarks vs GPT-6 Luna and Claude Haiku 5.5, honestly framed.
+- [NVIDIA GTC Berlin 2026 Keynote Recap: What Jensen Huang Actually Announced](https://toolpilotpro.com/nvidia-gtc-berlin-keynote-recap-2026) - DSX POD AI factories, the OpenShell agent-safety architecture, humanoid robots and the Europe AI pledges, scored against the preview’s predictions.
 - [11 Best AI Tools for Hotels (2026)](https://toolpilotpro.com/best-ai-tools-for-hotels) - Eleven hotel AI tools compared by job: guest messaging, dynamic pricing, reviews, housekeeping and PMS, with honest published prices.
 - [9 Best AI Tools for Restaurants (2026) That Save the Dinner Rush](https://toolpilotpro.com/best-ai-tools-for-restaurants) - Nine restaurant AI tools compared: AI phone hosts, reservations, ordering and marketing, with a worked example of missed-call losses.
 - [7 Best AI Chatbots for Hotels & Small Businesses (2026)](https://toolpilotpro.com/best-ai-chatbots-for-hotels) - Ranking of hotel and small-business AI chatbots with honest pricing, WhatsApp and voice options, and worked examples of missed-call losses.
-- [HomePod mini 2: $149, Sound Glow — and No Siri AI at Launch](https://toolpilotpro.com/apple-homepod-mini-2-guide) — Apple's refreshed smart speaker explained: what's in the box, what's still a promise.
-- [4 Gemini 4 Argon Agents Beat Minecraft in 27 Hours, No Humans](https://toolpilotpro.com/gemini-4-argon-agents-beat-minecraft) — Google DeepMind's agentic AI stunt, full breakdown + cost math.
+- [HomePod mini 2: $149, Sound Glow — and No Siri AI at Launch](https://toolpilotpro.com/apple-homepod-mini-2-guide) — Apple’s refreshed smart speaker explained: what’s in the box, what’s still a promise.
+- [4 Gemini 4 Argon Agents Beat Minecraft in 27 Hours, No Humans](https://toolpilotpro.com/gemini-4-argon-agents-beat-minecraft) — Google DeepMind’s agentic AI stunt, full breakdown + cost math.
 - [NVIDIA RTX Spark Laptops: Prices, Specs & First Reviews](https://toolpilotpro.com/nvidia-rtx-spark-laptops-guide) — RTX Spark laptops on sale from $2,599, with first review benchmarks.
 - [Google Gemini 4 Argon: Flagship Model, Price Catch, Verdict](https://toolpilotpro.com/google-gemini-4-argon-guide) — $2/$10 intro pricing until Dec 1, Vals Index lead, and how it compares to GPT-6, Claude, and Muse Wonder.
 - [Apple HomeView Is Here: $299 Siri AI Hub (Ships Nov 13)](https://toolpilotpro.com/apple-homeview-guide) — Siri AI smart-home hub, HomePod mini 2, and Apple TV 4K: confirmed details and comparisons
-- [Muse Wonder vs GPT-6 vs Claude: Prices, Scores, Verdict](https://toolpilotpro.com/meta-muse-wonder-guide) — Meta's first frontier model: pricing, benchmarks, and who should switch.
+- [Muse Wonder vs GPT-6 vs Claude: Prices, Scores, Verdict](https://toolpilotpro.com/meta-muse-wonder-guide) — Meta’s first frontier model: pricing, benchmarks, and who should switch.
 - [OpenAI Cancelled GPT-6.1 Astra: What Happened and What Ships Instead](https://toolpilotpro.com/openai-gpt-6-1-astra-cancelled) — The safety failures behind the cancellation and what ships instead.
 - [NVIDIA Nemotron 3.5 Bolt: 74B Model That Runs on a Laptop](https://toolpilotpro.com/nvidia-nemotron-3-5-bolt-guide) — Open-weight 74B reasoning model that runs on a single laptop GPU.
 - [GPT-4o Is Retiring: Shutdown Date, Replacement & Migration](https://toolpilotpro.com/gpt-4o-retirement-api-shutdown) — GPT-4o leaves the API on Jan 14, 2027; what replaces it and how to migrate.
@@ -71,7 +71,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 
 ## Productivity
 
-- [Google Gemini Agent: What It Is, Who Gets It, and the Catch](https://toolpilotpro.com/google-gemini-agent-guide) — Google's universal enterprise agent: coworker agents with their own email and Drive, 200+ model routing, pricing and availability.
+- [Google Gemini Agent: What It Is, Who Gets It, and the Catch](https://toolpilotpro.com/google-gemini-agent-guide) — Google’s universal enterprise agent: coworker agents with their own email and Drive, 200+ model routing, pricing and availability.
 - [Claude Dashboards + Motion: What They Do and Who Gets Them](https://toolpilotpro.com/claude-dashboards-motion-guide)
 - [8 Best AI Note-Taking Tools in 2026](https://toolpilotpro.com/best-ai-note-taking-tools-2026) — Notion AI, Obsidian, Mem, Tana and more, tested and compared.
 - [8 Best AI Productivity Tools to Save 10 Hours a Week](https://toolpilotpro.com/best-ai-productivity-tools) — Scheduling, notes, and task automation.
@@ -106,6 +106,15 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 ## SEO
 
 - [8 Best AI SEO Tools in 2026](https://toolpilotpro.com/best-ai-seo-tools-2026) — Surfer SEO, Clearscope, Frase, Semrush, Ahrefs and more, tested and compared.
+- [7 Best AI Tools for Students in 2026](https://toolpilotpro.com/ai-tools-for-students) — study, writing, research and exam-prep tools compared for students.
+- [6 Best AI Tools for YouTubers in 2026](https://toolpilotpro.com/best-ai-tools-for-youtubers) — scripting, voice, editing and thumbnail tools for creators.
+- [5 Best Free AI Logo Makers in 2026 (Tested and Compared)](https://toolpilotpro.com/best-free-ai-logo-makers) — free logo generators tested on real briefs.
+- [Is ChatGPT Plus Worth It in 2026?](https://toolpilotpro.com/chatgpt-plus-worth-it) — what the paid plan actually adds, and who should skip it.
+- [How to Convert PDF to Word Free: Keep Your Text Editable](https://toolpilotpro.com/how-to-convert-pdf-to-word-free) — methods compared, OCR explained, and fixes for broken formatting.
+- [How to Count Words Online Free: Characters, Reading Time & More](https://toolpilotpro.com/how-to-count-words-and-characters-free) — word and character limits for every platform, and why counters disagree.
+- [How to Make a QR Code Free: Links, Wi-Fi, Menus & More](https://toolpilotpro.com/how-to-make-a-qr-code-free) — static vs dynamic, print sizes, error correction and QR phishing safety.
+- [How to Remove Image Background Free: 3 Methods That Work](https://toolpilotpro.com/how-to-remove-background-from-image-free) — AI cutouts explained, the seller workflow, and marketplace image rules.
+- [NVIDIA GTC Berlin 2026: Jensen Huang’s Oct 21 Keynote Preview](https://toolpilotpro.com/nvidia-gtc-berlin-2026-guide) — what was expected at GTC Berlin and the Germany AI investment in context.
 
 ---
 
