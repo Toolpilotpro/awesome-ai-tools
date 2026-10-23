@@ -8,10 +8,13 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 
 ## Free Online Tools
 
-- [Free Online Tools](https://toolpilotpro.com/tools/) — 23 free browser tools: image compressor, resizer & converter, JPG to PDF, PDF merger, splitter & compressor, image to PDF, background remover, PDF to Word, word counter, QR code generator, EMI/salary/GST/CGPA/income-tax calculators, JSON formatter & Base64. No sign-up, files never leave your browser.
+- [Free Online Tools](https://toolpilotpro.com/tools/) — 26 free browser tools: image compressor, resizer & converter, JPG to PDF, PDF merger, splitter & compressor, image to PDF, background remover, PDF to Word, word counter, QR code generator, EMI/salary/GST/CGPA/income-tax calculators, JSON formatter & Base64. No sign-up, files never leave your browser.
 - [YouTube Thumbnail Downloader](https://toolpilotpro.com/tools/youtube-thumbnail-downloader/) — download any video's thumbnail in HD
 - [Image to Text Converter](https://toolpilotpro.com/tools/image-to-text/) — free OCR, extract text from images
 - [PDF to JPG Converter](https://toolpilotpro.com/tools/pdf-to-jpg/) — convert PDF pages to JPG or PNG images
+- [Free Resume Builder](https://toolpilotpro.com/tools/resume-builder/) — build a resume and download a print-ready PDF
+- [Free Invoice Generator](https://toolpilotpro.com/tools/invoice-generator/) — invoices with tax/discount in 5 currencies, print to PDF
+- [Free QR Code Scanner](https://toolpilotpro.com/tools/qr-code-scanner/) — scan QR codes by camera or image, nothing uploaded
 
 ## Writing & Content
 
@@ -115,6 +118,11 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 - [How to Make a QR Code Free: Links, Wi-Fi, Menus & More](https://toolpilotpro.com/how-to-make-a-qr-code-free) — static vs dynamic, print sizes, error correction and QR phishing safety.
 - [How to Remove Image Background Free: 3 Methods That Work](https://toolpilotpro.com/how-to-remove-background-from-image-free) — AI cutouts explained, the seller workflow, and marketplace image rules.
 - [NVIDIA GTC Berlin 2026: Jensen Huang’s Oct 21 Keynote Preview](https://toolpilotpro.com/nvidia-gtc-berlin-2026-guide) — what was expected at GTC Berlin and the Germany AI investment in context.
+
+## By audience
+
+- [Best AI Tools for Freelancers](https://toolpilotpro.com/best-ai-tools-for-freelancers.html) — 9 tools that pay for themselves: proposals, drafting, design, video and invoicing
+- [Best AI Tools for Real Estate Agents](https://toolpilotpro.com/best-ai-tools-for-real-estate-agents.html) — staging, listing copy, lead follow-up and CRM tools, with compliance notes
 
 ---
 
