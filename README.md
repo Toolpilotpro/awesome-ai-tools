@@ -22,7 +22,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 - [Are AI Detectors Accurate? What 5 Popular Tools Get Wrong](https://toolpilotpro.com/are-ai-detectors-accurate) — GPTZero, Originality.ai, Turnitin, ZeroGPT and Copylaks tested for false positives.
 - [5 Best AI Paraphrasing Tools in 2026](https://toolpilotpro.com/best-ai-paraphrasing-tools) — QuillBot, Wordtune, Jasper, Copy.ai and ChatGPT: modes, free limits, pricing.
 - [Jasper vs Copy.ai: An Honest Comparison](https://toolpilotpro.com/jasper-vs-copy-ai) — Templates, output quality, ease of use and pricing.
-- [How to Use ChatGPT for Content Writing (Beginner's Guide)](https://toolpilotpro.com/how-to-use-chatgpt-content-writing) — Setup, prompts, and workflows that actually work.
+- [How to Use ChatGPT for Content Writing (Beginner’s Guide)](https://toolpilotpro.com/how-to-use-chatgpt-content-writing) — Setup, prompts, and workflows that actually work.
 - [How to Write Better Prompts: 15 Techniques That Work](https://toolpilotpro.com/how-to-write-better-prompts) — Few-shot examples, prompt templates and practical techniques.
 
 ## Image Generation & Design
@@ -102,6 +102,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 
 ## Career
 
+- [How to Copy Any CV Design You Like (Free CV Maker)](https://toolpilotpro.com/cv-maker-from-image-guide) — Upload a CV design you like and get a new CV in that style, free in your browser.
 - [8 Best AI Resume Builders in 2026](https://toolpilotpro.com/best-ai-resume-builders) — Honest pricing, free vs paid limits, and ATS features.
 
 ## Marketing
