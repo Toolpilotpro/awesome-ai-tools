@@ -46,6 +46,8 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 - [8 Best AI Tools for Podcasters in 2026](https://toolpilotpro.com/best-ai-tools-for-podcasters) — Recording, text-based editing, audio cleanup, show notes, and clips.
 - [5 Best AI Music Generators in 2026](https://toolpilotpro.com/best-ai-music-generators-2026) — Suno, Udio and more: output quality, commercial rights, and free limits.
 
+- [Block's Dessa Is Here: Voice AI Trained Only on Human Speech](https://toolpilotpro.com/block-dessa-voice-ai-guide) — Block's Oct 23, 2026 full-duplex voice model trained only on human speech, no text at all; research preview + waitlist.
+
 ## Chatbots & Assistants
 
 - [OpenAI's Decisions API Is Now Live for Everyone: 10x Faster AI Calls in 100 Milliseconds](https://toolpilotpro.com/openai-decisions-api-guide.html) — OpenAI's classification endpoint: 100ms answers, $0.10 per million input tokens, no output charge.
