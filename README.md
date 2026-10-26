@@ -52,6 +52,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 
 - [OpenAI's Decisions API Is Now Live for Everyone: 10x Faster AI Calls in 100 Milliseconds](https://toolpilotpro.com/openai-decisions-api-guide.html) — OpenAI's classification endpoint: 100ms answers, $0.10 per million input tokens, no output charge.
 - [Anthropic's $2T IPO: $16.3B Revenue, $80B Loss, 80-Page AI Warning](https://toolpilotpro.com/anthropic-ipo-s1-filing-guide.html) — The draft S-1 numbers explained: $16.3B revenue, the $80B paper loss, and the 80-page AI risk warning.
+- [Anthropic's Reported $2T IPO Filing — What to Look For](https://toolpilotpro.com/anthropic-ipo-filing-what-to-expect)
 - [ARTEX: The AI That Hacks on Its Own](https://toolpilotpro.com/artex-ai-hacking-tool-guide) — GMO found the autonomous AI pentesting tool on servers behind Japan's breach wave: ~20 companies documented, the Korea chapter, and what businesses should do.
 - [Claude Duet: The AI Agent That Works Before You Ask](https://toolpilotpro.com/claude-duet-guide) — Anthropic’s proactive agent on Opus 5.5: morning briefs, an approval gate before it acts, and how it compares with Meta Muse, OpenAI Dots and Gemini.
 - [OpenAI Models Land on Google Cloud: GPT-6 on Model Garden](https://toolpilotpro.com/openai-models-on-google-cloud) - GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna arrive on Google Cloud in private preview, with Marketplace billing, Codex workflows, and one big unanswered Astra question.
@@ -92,7 +93,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 
 - [10 Best AI Coding Assistants in 2026](https://toolpilotpro.com/best-ai-coding-assistants) — Code completion, debugging help, IDE support, and language coverage.
 - [Kimi K3.1 Pro: 1M Context, Open Weights, Near-Frontier Coding Power](https://toolpilotpro.com/kimi-k3-1-pro-guide) — Moonshot AI's Oct 23, 2026 flagship: 1M-token context, open weights, 4th on the Artificial Analysis Index.
-
+- [Mistral Large 4 Open Weights: 5 Checks Before You Trust the Hype](https://toolpilotpro.com/mistral-large-4-open-weights-preview)
 ## Research & Data
 
 - [6 Best AI Data Analysis Tools in 2026](https://toolpilotpro.com/best-ai-data-analysis-tools) — Turn spreadsheets into dashboards and insights.
