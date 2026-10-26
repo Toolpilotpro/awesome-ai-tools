@@ -47,6 +47,8 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 - [5 Best AI Music Generators in 2026](https://toolpilotpro.com/best-ai-music-generators-2026) — Suno, Udio and more: output quality, commercial rights, and free limits.
 
 - [Block's Dessa Is Here: Voice AI Trained Only on Human Speech](https://toolpilotpro.com/block-dessa-voice-ai-guide) — Block's Oct 23, 2026 full-duplex voice model trained only on human speech, no text at all; research preview + waitlist.
+ - [Free Text to Speech Online — Listen to Any Text](https://toolpilotpro.com/text-to-speech-guide)
+ - [Free Speech to Text Online — Dictate with Your Mic](https://toolpilotpro.com/speech-to-text-guide)
 
 ## Chatbots & Assistants
 
@@ -88,6 +90,9 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 - [7 Best AI Tools for Small Businesses in 2026](https://toolpilotpro.com/best-ai-tools-small-business) — Marketing copy, customer support, design, and bookkeeping.
 - [Notion AI vs Mem vs Taskade: AI Note-Taking Compared](https://toolpilotpro.com/notion-ai-vs-mem-vs-taskade) — AI writing features, organization, search, and integrations.
 - [5 Best AI Presentation Makers in 2026](https://toolpilotpro.com/best-ai-presentation-makers-2026) — Gamma, Tome and more: slide quality, templates, and free plans.
+ - [How to Convert Word to PDF Online Free — .docx to PDF](https://toolpilotpro.com/word-to-pdf-guide)
+ - [How to Sign a PDF Online Free — Add Your Signature](https://toolpilotpro.com/sign-pdf-guide)
+ - [Free Barcode Generator — CODE128, EAN13 & UPC](https://toolpilotpro.com/barcode-generator-guide)
 
 ## Coding
 
@@ -109,6 +114,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 
 - [How to Copy Any CV Design You Like (Free CV Maker)](https://toolpilotpro.com/cv-maker-from-image-guide) — Upload a CV design you like and get a new CV in that style, free in your browser.
 - [8 Best AI Resume Builders in 2026](https://toolpilotpro.com/best-ai-resume-builders) — Honest pricing, free vs paid limits, and ATS features.
+ - [Free Business Card Maker — Design Cards Online](https://toolpilotpro.com/business-card-maker-guide)
 
 ## Marketing
 
