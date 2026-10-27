@@ -32,6 +32,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 - [Midjourney vs DALL-E vs Stable Diffusion: Compared 2026](https://toolpilotpro.com/midjourney-vs-dalle-vs-stable-diffusion) — Image quality, price, ease of use, and commercial rights.
 - [7 Best Free AI Headshot Generators in 2026](https://toolpilotpro.com/best-free-ai-headshot-generators) — Which free tiers actually produce LinkedIn-ready headshots.
 - [5 Best Free AI Logo Makers in 2026](https://toolpilotpro.com/best-ai-logo-makers) — Which ones are truly free, logo quality, and download limits.
+- [Canva Craft Is Here: Canva's First In-House Image Model Plans the Picture Before It Paints It](https://toolpilotpro.com/canva-craft-guide)
 
 ## Video
 
