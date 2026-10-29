@@ -9,6 +9,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 ## Free Online Tools
 
 - [Free Online Tools](https://toolpilotpro.com/tools/) — 26 free browser tools: image compressor, resizer & converter, JPG to PDF, PDF merger, splitter & compressor, image to PDF, background remover, PDF to Word, word counter, QR code generator, EMI/salary/GST/CGPA/income-tax calculators, JSON formatter & Base64. No sign-up, files never leave your browser.
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 - [YouTube Thumbnail Downloader](https://toolpilotpro.com/tools/youtube-thumbnail-downloader/) — download any video's thumbnail in HD
 - [Image to Text Converter](https://toolpilotpro.com/tools/image-to-text/) — free OCR, extract text from images
 - [PDF to JPG Converter](https://toolpilotpro.com/tools/pdf-to-jpg/) — convert PDF pages to JPG or PNG images
