@@ -104,6 +104,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 - [10 Best AI Coding Assistants in 2026](https://toolpilotpro.com/best-ai-coding-assistants) — Code completion, debugging help, IDE support, and language coverage.
 - [Kimi K3.1 Pro: 1M Context, Open Weights, Near-Frontier Coding Power](https://toolpilotpro.com/kimi-k3-1-pro-guide) — Moonshot AI's Oct 23, 2026 flagship: 1M-token context, open weights, 4th on the Artificial Analysis Index.
 - [Mistral Large 4 Open Weights: 5 Checks Before You Trust the Hype](https://toolpilotpro.com/mistral-large-4-open-weights-preview)
+- - [Kimi K3.1 Pro Weights Drop Nov 4: Licence, Size, How to Run](https://toolpilotpro.com/kimi-k3-1-pro-open-weights)
 ## Research & Data
 
 - [6 Best AI Data Analysis Tools in 2026](https://toolpilotpro.com/best-ai-data-analysis-tools) — Turn spreadsheets into dashboards and insights.
