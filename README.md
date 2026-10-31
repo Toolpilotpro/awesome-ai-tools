@@ -27,6 +27,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 
 ## Image Generation & Design
 
+- [Canva Review 2026: Pricing, Features & Best Alternatives](https://toolpilotpro.com/canva-review)
 - [FLUX 3 Image Klein: 4K AI Images on Your Own GPU](https://toolpilotpro.com/flux-3-image-klein-guide) — 5.6B open weights, native 4K, runs on 8GB VRAM, honest verdict.
 - [7 Best Free AI Image Generators in 2026](https://toolpilotpro.com/best-free-ai-image-generators) — Free plan limits, image quality, and commercial-use rules.
 - [Midjourney vs DALL-E vs Stable Diffusion: Compared 2026](https://toolpilotpro.com/midjourney-vs-dalle-vs-stable-diffusion) — Image quality, price, ease of use, and commercial rights.
@@ -43,6 +44,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 
 ## Audio & Voice
 
+- [ElevenLabs Review 2026: Pricing, Features & Best Alternatives](https://toolpilotpro.com/elevenlabs-review)
 - [ElevenLabs v4: What It Is, What It Costs, and Who Should Switch](https://toolpilotpro.com/elevenlabs-v4-guide) — Expressive TTS, voice cloning, and v4 Turbo latency explained.
 - [6 Best AI Voice Generators (Text to Speech) in 2026](https://toolpilotpro.com/best-ai-voice-generators) — Voice quality, pricing, and languages compared.
 - [8 Best AI Tools for Podcasters in 2026](https://toolpilotpro.com/best-ai-tools-for-podcasters) — Recording, text-based editing, audio cleanup, show notes, and clips.
@@ -54,6 +56,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 
 ## Chatbots & Assistants
 
+- [Claude Review 2026: Pricing, Features & Best Alternatives](https://toolpilotpro.com/claude-review)
 - [ChatGPT Review 2026: Pricing, Features & Best Alternatives](https://toolpilotpro.com/chatgpt-review)
  - [OpenAI's Decisions API Is Now Live for Everyone: 10x Faster AI Calls in 100 Milliseconds](https://toolpilotpro.com/openai-decisions-api-guide.html) — OpenAI's classification endpoint: 100ms answers, $0.10 per million input tokens, no output charge.
 - [Anthropic's $2T IPO: $16.3B Revenue, $80B Loss, 80-Page AI Warning](https://toolpilotpro.com/anthropic-ipo-s1-filing-guide.html) — The draft S-1 numbers explained: $16.3B revenue, the $80B paper loss, and the 80-page AI risk warning.
@@ -108,6 +111,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 - - [Kimi K3.1 Pro Weights Drop Nov 4: Licence, Size, How to Run](https://toolpilotpro.com/kimi-k3-1-pro-open-weights)
 ## Research & Data
 
+- [Perplexity Review 2026: Pricing, Features & Best Alternatives](https://toolpilotpro.com/perplexity-review)
 - [6 Best AI Data Analysis Tools in 2026](https://toolpilotpro.com/best-ai-data-analysis-tools) — Turn spreadsheets into dashboards and insights.
 - - [ARC Prize Just Cut OpenAI's 99.9% Astra Score to 62.7% — Here's What the Harness Hid](https://toolpilotpro.com/arc-prize-cuts-astra-99-9-to-62-7)
   - - [Google's Worst Day Ever: How Alphabet Lost $500 Billion in Hours](https://toolpilotpro.com/alphabet-q3-2026-earnings-crash)
