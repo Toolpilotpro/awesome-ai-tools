@@ -88,6 +88,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 - [Apple M6 MacBook Pro and iMac: Prices, Specs, AI Speed](https://toolpilotpro.com/apple-m6-macbook-pro-imac-guide)
 - [Trump Wants AI Renamed SI: What the Ban Claim Really Means](https://toolpilotpro.com/trump-ai-si-term-guide)
 - [Mistral Large 4 Is Out — Open Weights, New Licence and a Cyber Edge](https://toolpilotpro.com/mistral-large-4-guide)
+- [Best AI Apps in 2026: 10 Worth Installing on Your Phone](https://toolpilotpro.com/best-ai-apps-2026)
 
 ## Productivity
 
@@ -103,6 +104,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
  - [How to Convert Word to PDF Online Free — .docx to PDF](https://toolpilotpro.com/word-to-pdf-guide)
  - [How to Sign a PDF Online Free — Add Your Signature](https://toolpilotpro.com/sign-pdf-guide)
  - [Free Barcode Generator — CODE128, EAN13 & UPC](https://toolpilotpro.com/barcode-generator-guide)
+ - [15 Best Free AI Tools in 2026 (Actually Free, Tested)](https://toolpilotpro.com/best-free-ai-tools-2026)
 
 ## Coding
 
