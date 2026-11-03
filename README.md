@@ -112,6 +112,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 - [Kimi K3.1 Pro: 1M Context, Open Weights, Near-Frontier Coding Power](https://toolpilotpro.com/kimi-k3-1-pro-guide) — Moonshot AI's Oct 23, 2026 flagship: 1M-token context, open weights, 4th on the Artificial Analysis Index.
 - [Mistral Large 4 Open Weights: 5 Checks Before You Trust the Hype](https://toolpilotpro.com/mistral-large-4-open-weights-preview)
 - - [Kimi K3.1 Pro Weights Drop Nov 4: Licence, Size, How to Run](https://toolpilotpro.com/kimi-k3-1-pro-open-weights)
+ - [LongCat-2.5: 1.6T Parameters, 1M Context, $0.30 API](https://toolpilotpro.com/longcat-2-5-guide)
 ## Research & Data
 
 - [Perplexity Review 2026: Pricing, Features & Best Alternatives](https://toolpilotpro.com/perplexity-review)
