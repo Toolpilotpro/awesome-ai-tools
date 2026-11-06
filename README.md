@@ -35,6 +35,7 @@ A curated collection of **honest, hands-on guides** to the best AI tools in 2026
 - [5 Best Free AI Logo Makers in 2026](https://toolpilotpro.com/best-ai-logo-makers) — Which ones are truly free, logo quality, and download limits.
 - [Canva Craft Is Here: Canva's First In-House Image Model Plans the Picture Before It Paints It](https://toolpilotpro.com/canva-craft-guide)
 
+- [ChatGPT Images 2.6: GIFs, SVG Export and a Hidden Price Rise](https://toolpilotpro.com/openai-images-2-6-guide)
 ## Video
 
 - [10 Best AI Video Generators for Beginners](https://toolpilotpro.com/best-ai-video-generators) — Features, pricing, and ease of use compared.
